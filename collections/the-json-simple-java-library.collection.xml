@@ -1,0 +1,26 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col12010</md:content-id>
+    <md:title>The json-simple Java Library</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>e6c441f6-0a46-44c6-9f3c-b48759faac95</md:uuid>
+<md:slug>the-json-simple-java-library</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m61717"/>
+    <col:module document="m61776"/>
+    <col:module document="m61718"/>
+    <col:module document="m61777"/>
+    <col:module document="m61723"/>
+    <col:module document="m61778"/>
+    <col:module document="m61724"/>
+    <col:module document="m61779"/>
+    <col:module document="m61725"/>
+    <col:module document="m61780"/>
+    <col:module document="m61731"/>
+    <col:module document="m61781"/>
+    <col:module document="m61744"/>
+    <col:module document="m61783"/>
+  </col:content>
+</col:collection>
